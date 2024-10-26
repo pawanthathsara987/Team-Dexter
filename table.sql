@@ -8,5 +8,5 @@ CREATE TABLE STUDENT(
 );
 
 CREATE table attendence(
-
+    attem_id char(3)
 );
