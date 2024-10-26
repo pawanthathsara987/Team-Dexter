@@ -4,4 +4,9 @@ CREATE TABLE STUDENT(
     dob DATE,
     address varchar(100),
     mobile int
+
+);
+
+CREATE table attendence(
+
 );
