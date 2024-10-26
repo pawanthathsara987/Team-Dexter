@@ -9,5 +9,5 @@ CREATE TABLE STUDENT(
 
 CREATE table attendence(
     attem_id char(3),
-    name CHAR(100)
+    name CHAR(100),
 );
