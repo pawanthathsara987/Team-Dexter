@@ -3,5 +3,5 @@ CREATE TABLE STUDENT(
     stu name CHAR(10),
     dob DATE,
     address varchar(100),
-    
+    ffff
 );
